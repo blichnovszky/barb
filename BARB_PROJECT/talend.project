@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_aSGicbJxEeeF_4jApCluEw" label="barb_project" description="" language="java" technicalLabel="BARB_PROJECT" creationDate="2017-10-16T14:54:42.103+0200" author="_aSGicrJxEeeF_4jApCluEw" productVersion="Talend Real-time Big Data Platform-6.5.0.20171013_1932-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/blichnovszky/barb.git&quot;,&quot;login&quot;:&quot;blichnovszky&quot;,&quot;passwd&quot;:&quot;5zIcBMfylM4BvvdYeWUcYg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_aSGicrJxEeeF_4jApCluEw" login="blichnovszky@talend.com" firstName="Barbara" lastName="Lichnovszky" type="DI" additionnalData="{}"/>
+</xmi:XMI>
