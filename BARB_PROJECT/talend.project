@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_aSGicbJxEeeF_4jApCluEw" label="barb_project" description="" language="java" technicalLabel="BARB_PROJECT" creationDate="2017-10-16T14:54:42.103+0200" author="_aSGicrJxEeeF_4jApCluEw" productVersion="Talend Real-time Big Data Platform-6.5.0.20171013_1932-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/blichnovszky/barb.git&quot;,&quot;login&quot;:&quot;blichnovszky&quot;,&quot;passwd&quot;:&quot;5zIcBMfylM4BvvdYeWUcYg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_aSGicbJxEeeF_4jApCluEw" label="barb_project" description="" language="java" technicalLabel="BARB_PROJECT" creationDate="2017-10-16T14:54:42.103+0200" author="_aSGicrJxEeeF_4jApCluEw" productVersion="Talend Real-time Big Data Platform-6.5.0.20171013_1932-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/blichnovszky/barb.git&quot;,&quot;login&quot;:&quot;blichnovszky&quot;,&quot;passwd&quot;:&quot;5zIcBMfylM4BvvdYeWUcYg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_aoN8YLJxEeeF_4jApCluEw" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_aoN8YbJxEeeF_4jApCluEw" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_aoN8YrJxEeeF_4jApCluEw" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_aoELYLJxEeeF_4jApCluEw" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_aoELYbJxEeeF_4jApCluEw" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_aoELYrJxEeeF_4jApCluEw" label="validated" code="VAL"/>
     <migrationTask xmi:id="_amHDkLJxEeeF_4jApCluEw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_amHDkbJxEeeF_4jApCluEw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_amHDkrJxEeeF_4jApCluEw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
