@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_I049IeN8Eeii_rTEGcIu4Q" label="Doc_project" description="" language="java" technicalLabel="DOC_PROJECT" author="_I049IuN8Eeii_rTEGcIu4Q" productVersion="Talend Cloud Real-Time Big Data Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/blichnovszky/barb&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_KXD6gON8Eeii_rTEGcIu4Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_I049IuN8Eeii_rTEGcIu4Q" login="admin@ipaas2.talend.com" firstName="d'Artagnan" lastName="Last" type="DQ"/>
+  <TalendProperties:User xmi:id="_QVUBoON8Eeii_rTEGcIu4Q" login="barbara@ipaas2.talend.com" firstName="Talend" lastName="User" type="DQ"/>
+  <TalendProperties:User xmi:id="_bOvj4OQtEeiy9_mTDs6rcg" login="esbtest@ipaas2.talend.com" firstName="xlding" lastName="ding" type="DQ"/>
+  <TalendProperties:User xmi:id="_bOvj4eQtEeiy9_mTDs6rcg" login="dlenzen@ipaas2.talend.com" firstName="Dietmar" lastName="Lenzen" type="DQ"/>
+  <TalendProperties:User xmi:id="_bOvj4uQtEeiy9_mTDs6rcg" login="pelabax@ipaas2.talend.com" firstName="pelabax" lastName="pelabax" type="DQ"/>
+</xmi:XMI>
